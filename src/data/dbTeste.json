@@ -1,0 +1,68 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Caneca de Cerâmica",
+      "descricao": "Caneca de cerâmica branca, café ou chá.",
+      "preco": 12.99,
+      "categoria": "Cozinha",
+      "imagem": "/caneca.webp"
+    },
+    {
+      "id": 2,
+      "nome": "Caderno Espiral",
+      "descricao": "Caderno espiral com 100 folhas pautadas.",
+      "preco": 8.50,
+      "categoria": "Papelaria",
+      "imagem": "/caderno.avif"
+    },
+    {
+      "id": 3,
+      "nome": "Lâmpada LED",
+      "descricao": "Lâmpada LED de 9W, luz branca fria.",
+      "preco": 6.75,
+      "categoria": "Iluminação",
+      "imagem": "/lampada.webp"
+    },
+    {
+      "id": 4,
+      "nome": "Sabonete Líquido",
+      "descricao": "Sabonete líquido para mãos, 250ml.",
+      "preco": 9.90,
+      "categoria": "Higiene",
+      "imagem": "/sabonete.webp"
+    },
+    {
+      "id": 5,
+      "nome": "Pilha Alcalina AA",
+      "descricao": "Pacote com 4 pilhas alcalinas AA.",
+      "preco": 15.00,
+      "categoria": "Eletrônicos",
+      "imagem": "/pilha.webp"
+    },
+    {
+      "id": 6,
+      "nome": "Escova de Dentes",
+      "descricao": "Escova de dentes com cerdas macias.",
+      "preco": 4.20,
+      "categoria": "Higiene",
+      "imagem": "/escova.webp"
+    },
+    {
+      "id": 7,
+      "nome": "Copo de Vidro",
+      "descricao": "Copo de vidro transparente, 300ml.",
+      "preco": 7.99,
+      "categoria": "Cozinha",
+      "imagem": "/copo.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Lápis Preto",
+      "descricao": "Lápis preto HB para escrita e desenho.",
+      "preco": 1.50,
+      "categoria": "Papelaria",
+      "imagem": "/lapis.png"
+    }
+  ]
+}
