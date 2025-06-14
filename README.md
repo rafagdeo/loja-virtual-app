@@ -21,19 +21,19 @@ O objetivo é listar produtos, exibir detalhes individuais, permitir adicionar/r
 - React Icons
 
 ## Como rodar o projeto
-- Clone o repositório
-No terminal coloque: git clone https://github.com/rafagdeo/loja-virtual-app.git
-Vá até o projeto com: cd loja-virtual
+Clone o repositório
+- No terminal coloque: git clone https://github.com/rafagdeo/loja-virtual-app.git
+- Vá até o projeto com: cd loja-virtual
 
-- Instale as dependências
-No terminal digite: npm install
-- Inicie o JSON Server
-Certifique-se de que o arquivo dbTeste.json está na raiz do projeto.
-Rode o JSON Server em outra aba do terminal: npx json-server --watch dbTeste.json --port 3001
-A API estará disponível em: http://localhost:3001/produtos
+Instale as dependências
+- No terminal digite: npm install
 
-- Inicie o projeto
-No terminal digite: npm start
-O projeto estará disponível em: http://localhost:3000
+Inicie o JSON Server
+- Rode o JSON Server em outra aba do terminal: npx json-server --watch dbTeste.json --port 3001
+- A API estará disponível em: http://localhost:3001/produtos
+
+Inicie o projeto
+- No terminal digite: npm start
+- O projeto estará disponível em: http://localhost:3000
 
 Enjoy
