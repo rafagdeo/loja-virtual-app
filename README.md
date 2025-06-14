@@ -18,7 +18,7 @@ O objetivo é listar produtos, exibir detalhes individuais, permitir adicionar/r
 - JSON Server
 - Tailwind CSS (opcional, para estilização)
 - React Icons (opcional, para ícones)
-- 
+
 ## Como rodar o projeto
 - Clone o repositório
 No terminal coloque: git clone https://github.com/seu-usuario/nome-do-repo.git
